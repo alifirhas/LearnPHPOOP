@@ -1,0 +1,13 @@
+{
+    "name": "alif/sr1",
+    "authors": [
+        {
+            "name": "irhasalif",
+            "email": "32509276+alifirhas@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "components/jquery": "^3.5",
+        "twbs/bootstrap": "^4.6"
+    }
+}
